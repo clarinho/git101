@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "I like to eat apples" << std::endl;
+	std::cout << "I like to eat apples and sign commits with my ssh!" << std::endl;
 
 	return 0;
 }
